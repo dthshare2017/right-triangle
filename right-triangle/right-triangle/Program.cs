@@ -27,17 +27,6 @@ namespace right_triangle
                 }
                 Console.WriteLine("");
             }
-
-            //for (int i = 0; i < n; i++)
-            //{
-            //    for (int j = 0; j <= r; j++)
-            //    {
-            //        if (j > n - 1 - i && j <= r - (n - 1 - i))
-            //            Console.Write("*");
-            //        //else Console.Write(" ");
-            //    }
-            //    Console.WriteLine("");
-            //}
             Console.ReadLine();
         }
     }
